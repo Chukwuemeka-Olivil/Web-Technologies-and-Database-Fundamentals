@@ -76,7 +76,6 @@ This laboratory covers:
 - MySQL
 - phpMyAdmin
 - XAMPP
-- SQL
 - Browser Developer Tools
 
 ---
